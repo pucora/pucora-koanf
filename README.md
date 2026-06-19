@@ -6,7 +6,7 @@ A config parser for the [Pucora](http://pucora.io/) framework
 
 Import the package
 
-	import "github.com/pucora/velonetics-koanf"
+	import "github.com/pucora/pucora-koanf"
 
 And you are ready for building a parser and get the config from json / yaml / toml files.
 

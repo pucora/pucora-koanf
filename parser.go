@@ -18,7 +18,7 @@ import (
 var delimiter = "."
 
 const (
-	prefix = "VELONETICS_"
+	prefix = "PUCORA_"
 )
 
 // New creates a new parser using the koanf library
@@ -49,7 +49,7 @@ func (p Parser) Parse(configFile string) (config.ServiceConfig, error) {
 }
 
 // ParseWithoutInit reads and parses the configFile. The values of the file can be
-// override with envvars, using the VELONETICS_ prefix
+// override with envvars, using the PUCORA_ prefix
 func (p Parser) ParseWithoutInit(configFile string) (config.ServiceConfig, error) {
 	var cfg config.ServiceConfig
 

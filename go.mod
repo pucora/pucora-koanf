@@ -1,4 +1,4 @@
-module github.com/pucora/velonetics-koanf
+module github.com/pucora/pucora-koanf
 
 go 1.25.3
 
