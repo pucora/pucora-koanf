@@ -1,12 +1,12 @@
-# Velonetics koanf
+# Pucora koanf
 
-A config parser for the [Velonetics](http://velonetics.io/) framework
+A config parser for the [Pucora](http://pucora.io/) framework
 
 ## How to use it
 
 Import the package
 
-	import "github.com/velonetics/velonetics-koanf"
+	import "github.com/pucora/velonetics-koanf"
 
 And you are ready for building a parser and get the config from json / yaml / toml files.
 
