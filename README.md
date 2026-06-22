@@ -1,6 +1,6 @@
 # Pucora koanf
 
-A config parser for the [Pucora](http://pucora.io/) framework
+A config parser for the [Pucora](http://pucora.in/) framework
 
 ## How to use it
 
